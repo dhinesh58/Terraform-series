@@ -1,0 +1,5 @@
+locals {
+  env = {
+    Test= "Meage"
+  }
+}
